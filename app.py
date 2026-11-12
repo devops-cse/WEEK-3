@@ -1,5 +1,5 @@
 def greet():
-    print("Welcome to DevOps Lab")
+    print("Welcome to DEVOPS LAB")
 
 def login(username):
     print(f"User {username} logged in successfully")
